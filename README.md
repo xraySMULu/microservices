@@ -1,4 +1,3 @@
-ADD README CONTENT
 # **Microservice Examples**
 <a id="idtop"></a>  
 <img src="./resources/content/hdssr.png" width="1200">
