@@ -1,6 +1,6 @@
 # **Microservice Examples**
 <a id="idtop"></a>  
-<img src="./resources/content/ms1.png" width="1200">
+<img src="./content/ms1.png" width="1200">
 
 ## Table of Contents
 * [Project Overview](#Project-Overview)
